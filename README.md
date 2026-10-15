@@ -1,18 +1,14 @@
-## Getting Started
+# Student Course Management System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A CLI-based academic course management tool written in Java. Built to handle course records with persistent flat-file storage, input validation, and credit unit aggregation.
 
-## Folder Structure
+## Core Features
+- **Record Management:** Add, search, and list academic courses.
+- **Credit Computation:** Calculates total registered academic units.
+- **Data Persistence:** Reads and writes course records using `java.io.File`, `BufferedReader`, and `PrintWriter` (`courses.txt`).
+- **Input Validation:** Sanitizes course codes and numeric inputs.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Setup & Execution
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/oluwasegun-manex/CourseManagementSystem_1.git
