@@ -1,0 +1,4 @@
+CSC 104,Human Computer Interface,3
+COS 102,Problem Solving,3
+MTH 102,Caculus 1,2
+CYB 203,Cyber Crime,3
