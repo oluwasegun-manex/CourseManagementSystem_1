@@ -9,6 +9,6 @@ A CLI-based academic course management tool written in Java. Built to handle cou
 - **Input Validation:** Sanitizes course codes and numeric inputs.
 
 ## Setup & Execution
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/oluwasegun-manex/CourseManagementSystem_1.git
